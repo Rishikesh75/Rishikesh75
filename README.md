@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Rishikesh Reddy
-Software Engineer @ Trimble | Full-Stack & ML Specialist 
+Software Engineer @ Trimble | Full-Stack & ML Enthusiast. 
 
 Building scalable systems, developer tools, and ML-driven applications.  
 Experience with microservices, event-driven architecture, and deep learning models.
