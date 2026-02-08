@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Development Engineer | Backend • Full-Stack • ML  
+Software Development Engineer | Backend • ML  
 
 Building scalable systems, developer tools, and ML-driven applications.  
 Experience with microservices, event-driven architecture, and deep learning models.
