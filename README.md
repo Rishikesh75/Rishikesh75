@@ -10,6 +10,7 @@ Passionate about system design, distributed systems, and deep learning.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh%20Reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishikesh-reddy-986824260/)
+
 [![Email](https://img.shields.io/badge/Email-kotlarishikesh27@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotlarishikesh27@gmail.com)
 
 ---
