@@ -3,10 +3,17 @@
 🚀 Software Engineer @ Trimble  
 💻 Full-Stack Developer | 🤖 ML Enthusiast  
 
+
 I build scalable backend systems, developer tools, and ML-powered applications.  
 Passionate about system design, distributed systems, and deep learning.
 
 ---
+
+🏫 Academic & Leadership Experience
+🎓 B.Tech Graduate (2025) — IIITDM Kancheepuram
+🤝 Placement Coordinator — Led and managed placement activities, coordinated with companies and students
+📊 Data Management Lead — Handled data pipelines, reporting, and analytics for placement processes
+🌐 GDSC Core Member — Contributed to Google Developer Student Club initiatives, events, and technical community building
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh%20Reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishikesh-reddy-986824260/)
