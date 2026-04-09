@@ -94,11 +94,5 @@ Passionate about system design, distributed systems, and deep learning.
 
 ---
 
-## 🎯 Goals
-- 🚀 Master System Design & Distributed Systems  
-- 🤖 Build impactful AI products  
-- 🌍 Contribute to open source  
-
----
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Rishikesh75&icon=5&color=6)
