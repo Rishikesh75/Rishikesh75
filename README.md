@@ -79,13 +79,6 @@ Passionate about system design, distributed systems, and deep learning.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Rishikesh75&theme=tokyonight&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Rishikesh75&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh75&theme=tokyonight&hide_border=true&layout=compact)
-
----
 
 ## 🧠 What I’m Currently Working On
 - 🔹 Scalable backend systems (microservices & event-driven)
